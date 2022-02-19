@@ -260,10 +260,9 @@ code {
   margin: 0 32px; }
   .navbar.expand-header {
     margin: 0; }
-  .navbar .nav-logo a.navbar-brand img {
-    
-    width: 100%;
-     }
+ /* .navbar .nav-logo a.navbar-brand img {
+    width: 149px; 
+    height: 40px; }  */
   .navbar .nav-logo a.navbar-brand .navbar-brand-name {
     font-weight: 700;
     letter-spacing: 1px;
@@ -1612,7 +1611,7 @@ code {
     z-index: 9999;
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
-    -webkit-transform: translate3d(0, 0, 0);
+    /*-webkit-transform: translate3d(0, 0, 0); */
     width: 255px;
     background-color: #fff;
     padding: 0;
