@@ -262,8 +262,7 @@ code {
     margin: 0; }
   .navbar .nav-logo a.navbar-brand img {
     
-    width: auto;
-    height: auto;
+    width: 100%;
      }
   .navbar .nav-logo a.navbar-brand .navbar-brand-name {
     font-weight: 700;
